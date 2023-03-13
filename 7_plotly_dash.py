@@ -51,7 +51,7 @@ app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
 
                                 # TASK 4: Add a scatter chart to show the correlation between payload and launch success
                                 html.Div(dcc.Graph(id='success-payload-scatter-chart')),
-                                ])
+                                ]),
 
 # TASK 2:
 # Add a callback function for `site-dropdown` as input, `success-pie-chart` as output
