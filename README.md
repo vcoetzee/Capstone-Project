@@ -2,6 +2,7 @@
 
 This project was the final hands-on project in the IBM Data Science Professional certificate. The aim of the exercise was to test a range of skills, including:
 
+- Python
 - Data collection (using and API & Web scraping)
 - Data wrangling
 - Exploratory Data Analysis (EDA: SQL, Pandas and Matplotlib)
